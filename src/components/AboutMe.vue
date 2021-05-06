@@ -3,7 +3,7 @@
     <div id="main">
         <div class="text" id="aboutmetext" >
              <p>
-    My name is Tamás Major and I'm a 20 year old multimedia design and communication student from Hungary, attending Business Academy SouthWest in Esbjerg, Denmark. I have a broad skillset of Adobe programmes, as well as coding skills. My favourite things to do are Web and App designs, and making them actually work. I'm always trying to come up with unique and imaginative approaches to my projects. I can work both alone and in a team. When it comes to teamwork I'm clear and honest with everyone. I'm team-minded, always respectful, I always have a positive mindset and I try to stay calm even in difficult situations. I cooporate well with teammates and collegues, I'm punctual and accurate.
+    Hello, my name is Pakot Attila and i’m from Romania. I’m currently studying Multimedia Design at Erhvervsakademi Sydvest in Esbjerg. My goal is to learn and improve everyday, and make my work better quality day by day. After finishing with my studies i’m looking for a good work environment where i can be part of a team, and help the company succeed. Words that describe me are passionate, funny and friendly. My main hobbies are football and cooking. 
   </p>
         </div>
     </div>

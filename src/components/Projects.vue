@@ -14,7 +14,7 @@
                     <v-card-title>EASV app</v-card-title>
                     </v-img>
                     <v-card-text class="text--primary">
-                    <div></div>
+                    <div>The project that i present to you is a school project, that i did with 3 awesome people, and it's about an app we created for the school. This app helps potential students to get know more about our school.</div>
                     </v-card-text>
 
                     <v-card-actions>   
